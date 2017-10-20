@@ -1,0 +1,202 @@
+<html>
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Helping Cart | Your Personal Assistant</title>
+<link rel="pingback" href="https://helpingcart.com/xmlrpc.php"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Helping Cart &raquo; Feed" href="https://helpingcart.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Helping Cart &raquo; Comments Feed" href="https://helpingcart.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Helping Cart &raquo; Home Comments Feed" href="https://helpingcart.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/helpingcart.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='x-stack-css'  href='https://helpingcart.com/wp-content/themes/x/framework/css/dist/site/stacks/icon.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='x-cranium-migration-css'  href='https://helpingcart.com/wp-content/themes/x/framework/legacy/cranium/css/dist/site/icon.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='x-google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://helpingcart.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/themes/x/framework/js/dist/site/x-head.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.js?ver=2.0.6'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/themes/x/framework/legacy/cranium/js/dist/site/x-head.min.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='https://helpingcart.com/wp-json/' />
+<link rel="canonical" href="https://helpingcart.com/" />
+<link rel='shortlink' href='https://helpingcart.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://helpingcart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhelpingcart.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://helpingcart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhelpingcart.com%2F&#038;format=xml" />
+<style id="x-generated-css" type="text/css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,#respond .required,.x-pagination a:hover,.x-pagination span.current,.widget_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:hover,.x-scroll-top:hover,.x-comment-author a:hover,.mejs-button button:hover{color:#eb671c;}a:hover{color:hsl(22,99%,40%);}a.x-img-thumbnail:hover,textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.uneditable-input:focus,.x-pagination a:hover,.x-pagination span.current,.widget_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:hover,.x-scroll-top:hover{border-color:#eb671c;}.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.x-portfolio-filters,.x-entry-share .x-share:hover,.widget_price_filter .ui-slider .ui-slider-range,.mejs-time-current{background-color:#eb671c;}.x-portfolio-filters:hover{background-color:hsl(22,99%,40%);}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label{font-family:""Lato",sans-serif";}.x-comment-time,.entry-thumb:before,.p-meta{color:#999999;}.entry-title a:hover,.x-comment-author,.x-comment-author a,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.x-accordion-heading .x-accordion-toggle,.x-nav-tabs > li > a:hover,.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover,.mejs-button button{color:#272727;}.h-comments-title small,.h-feature-headline span i,.x-portfolio-filters-menu,.mejs-time-loaded{background-color:#272727 !important;}@media (min-width:1200px){.x-sidebar{width:250px;}body.x-sidebar-content-active,body[class*="page-template-template-blank"].x-sidebar-content-active.x-blank-template-sidebar-active{padding-left:250px;}body.x-content-sidebar-active,body[class*="page-template-template-blank"].x-content-sidebar-active.x-blank-template-sidebar-active{padding-right:250px;}}html{font-size:14px;}@media (min-width:480px){html{font-size:14px;}}@media (min-width:767px){html{font-size:14px;}}@media (min-width:979px){html{font-size:14px;}}@media (min-width:1200px){html{font-size:14px;}}body{font-style:normal;font-weight:400;color:#999999;background-color:#f3f3f3;}.w-b{font-weight:400 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Lato",sans-serif;font-style:normal;font-weight:700;text-transform:uppercase;}h1,.h1{letter-spacing:0em;}h2,.h2{letter-spacing:0em;}h3,.h3{letter-spacing:0em;}h4,.h4{letter-spacing:0em;}h5,.h5{letter-spacing:0em;}h6,.h6{letter-spacing:0em;}.w-h{font-weight:700 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1100px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Lato",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#272727;}.cfc-h-tx{color:#272727 !important;}.cfc-h-bd{border-color:#272727 !important;}.cfc-h-bg{background-color:#272727 !important;}.cfc-b-tx{color:#999999 !important;}.cfc-b-bd{border-color:#999999 !important;}.cfc-b-bg{background-color:#999999 !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#eb671c;background-color:#eb671c;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);border-radius:100em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li a{color:#999999;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#272727;}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:37px;}.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:1px;}.x-navbar .desktop .x-nav > li ul{top:90px;}@media (min-width:1200px){body.x-sidebar-content-active .x-widgetbar,body.x-sidebar-content-active .x-navbar-fixed-top,body[class*="page-template-template-blank"].x-sidebar-content-active.x-blank-template-sidebar-active .x-widgetbar,body[class*="page-template-template-blank"].x-sidebar-content-active.x-blank-template-sidebar-active .x-navbar-fixed-top{left:250px;}body.x-content-sidebar-active .x-widgetbar,body.x-content-sidebar-active .x-navbar-fixed-top,body[class*="page-template-template-blank"].x-content-sidebar-active.x-blank-template-sidebar-active .x-widgetbar,body[class*="page-template-template-blank"].x-content-sidebar-active.x-blank-template-sidebar-active .x-navbar-fixed-top{right:250px;}}@media (max-width:979px){.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:0;}}body.x-navbar-fixed-top-active .x-navbar-wrap{height:90px;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:22px;font-family:"Lato",sans-serif;font-size:42px;font-style:normal;font-weight:700;letter-spacing:-0.035em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand img{width:175px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Lato",sans-serif;font-style:normal;font-weight:700;letter-spacing:0.085em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:13px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar .desktop .x-nav > li > a > span{padding-right:calc(1.25em - 0.085em);}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}.x-widgetbar{left:0;right:0;}}.x-btn {
+  padding: 10px 30px;
+  text-shadow: none;
+}</style><style id="cornerstone-custom-page-css" type="text/css"></style></head>
+
+<body class="home page-template page-template-template-blank-4 page-template-template-blank-4-php page page-id-2 x-icon x-full-width-layout-active x-content-sidebar-active x-post-meta-disabled x-page-title-disabled x-navbar-fixed-top-active x-v5_1_1 cornerstone-v2_0_6">
+
+  <div id="x-root" class="x-root">
+
+    
+    <div id="top" class="site">
+
+    
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">Helping Cart</h1>
+<a href="https://helpingcart.com/" class="x-brand img" title="Your Personal Assistant">
+  <img src="//helpingcart.com/wp-content/uploads/2017/09/help-logo.png" alt="Your Personal Assistant"></a>           
+<a href="#" class="x-btn-navbar collapsed" data-toggle="collapse" data-target=".x-nav-wrap.mobile">
+  <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-main-menu" class="x-nav"><li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-9"><a href="https://helpingcart.com/"><span>Home</span></a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://helpingcart.com/about-us/"><span>About Us</span></a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://helpingcart.com/contact-us/"><span>Contact Us</span></a></li>
+<li class="menu-item x-menu-item x-menu-item-search"><a href="#" class="x-btn-navbar-search"><span><i class="x-icon-search" data-x-icon="&#xf002;" aria-hidden="true"></i><span class="x-hidden-desktop"> Search</span></span></a></li></ul></nav>
+
+<div class="x-nav-wrap mobile collapse">
+  <ul id="menu-main-menu-1" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-9"><a href="https://helpingcart.com/"><span>Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://helpingcart.com/about-us/"><span>About Us</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://helpingcart.com/contact-us/"><span>Contact Us</span></a></li>
+<li class="menu-item x-menu-item x-menu-item-search"><a href="#" class="x-btn-navbar-search"><span><i class="x-icon-search" data-x-icon="&#xf002;" aria-hidden="true"></i><span class="x-hidden-desktop"> Search</span></span></a></li></ul></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+  </header>
+
+  
+  <div class="x-main full" role="main">
+
+    
+      <article id="post-2" class="post-2 page type-page status-publish hentry no-post-thumbnail">
+        <div class="entry-wrap">
+          
+
+<div class="entry-content content">
+
+
+  <div id="cs-content" class="cs-content"><div id="x-section-1"  class="x-section bg-image"  style="margin: 0px;padding: 15% 0%;background-size: 100%;background-position: bottom; background-image: url(https://helpingcart.com/wp-content/uploads/2017/09/banner.png); background-color: hsl(240, 17%, 29%);"   data-x-element="section" data-x-params="{&quot;type&quot;:&quot;image&quot;,&quot;parallax&quot;:false}"><div  class="x-container max width"  style="margin: 0px auto;padding: 0px; background-color:hsla(0, 0%, 0%, 0);"   ><div  class="x-column x-sm cs-ta-left x-1-2" style="padding: 0%;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms; background-color:hsla(0, 0%, 0%, 0);" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><h2  class="h-custom-headline man h2" style="color: hsl(0, 0%, 100%);"><span>Your Personal Service Expert<br />
+</span></h2><h2  class="h-custom-headline h6" style="color: hsl(0, 0%, 100%);"><span>Get instant access to reliable and affordable services</span></h2><hr  class="x-gap" style="margin: 30px 0 0 0;"><a  class="x-btn x-btn-x-large" style="display: inline-block;" href="#"     data-options="thumbnail: ''"><i  class="x-icon mvn mln mrs x-icon-android" data-x-icon="&#xf17b;" aria-hidden="true"></i>DOWNLOAD APP</a></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" >&nbsp;</div></div></div><div id="x-section-2"  class="x-section"  style="margin: 0px;padding: 30px 8%; background-color: hsl(0, 0%, 91%);"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-5" style="padding: 0px;" ><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic square"><div class="x-feature-box-graphic-outer square" style=""><div class="x-feature-box-graphic-inner square" style="font-size: 40px;"><img class="square" src="https://helpingcart.com/wp-content/uploads/2017/09/051-car.png" style="margin: 0 auto;"></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title"></h4><p class="x-feature-box-text">Long Transportation</p></div></div></div><div  class="x-column x-sm x-1-5" style="padding: 0px;" ><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic square"><div class="x-feature-box-graphic-outer square" style=""><div class="x-feature-box-graphic-inner square" style="font-size: 40px;"><img class="square" src="https://helpingcart.com/wp-content/uploads/2017/09/mechanic.png" style="margin: 0 auto;"></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title"></h4><p class="x-feature-box-text">Mechanic service</p></div></div></div><div  class="x-column x-sm x-1-5" style="padding: 0px;" ><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic square"><div class="x-feature-box-graphic-outer square" style=""><div class="x-feature-box-graphic-inner square" style="font-size: 40px;"><img class="square" src="https://helpingcart.com/wp-content/uploads/2017/09/051-wedding-dress.png" style="margin: 0 auto;"></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title"></h4><p class="x-feature-box-text">Laundry service</p></div></div></div><div  class="x-column x-sm x-1-5" style="padding: 0px;" ><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic square"><div class="x-feature-box-graphic-outer square" style=""><div class="x-feature-box-graphic-inner square" style="font-size: 40px;"><img class="square" src="https://helpingcart.com/wp-content/uploads/2017/09/responsive.png" style="margin: 0 auto;"></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title"></h4><p class="x-feature-box-text">Electronics service</p></div></div></div><div  class="x-column x-sm x-1-5" style="padding: 0px;" ><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic square"><div class="x-feature-box-graphic-outer square" style=""><div class="x-feature-box-graphic-inner square" style="font-size: 40px;"><img class="square" src="https://helpingcart.com/wp-content/uploads/2017/09/sending-pipe.png" style="margin: 0 auto;"></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title"></h4><p class="x-feature-box-text">Construction Workers</p></div></div></div></div></div><div id="x-section-3"  class="x-section cs-ta-center"  style="margin: 0px;padding: 8%; background-color: transparent;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><h2  class="h-custom-headline man h6" style="color: hsl(22, 84%, 52%);"><span>lets simplify your home works</span></h2><hr  class="x-gap" style="margin: 20px 0 0 0;"><h2  class="h-custom-headline man h3" ><span>helping cart help you in all</span></h2><hr  class="x-gap" style="margin: 50px 0 0 0;"></div></div><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-3" style="padding: 0px;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic circle"><div class="x-feature-box-graphic-outer circle" style=""><div class="x-feature-box-graphic-inner circle" style="font-size: 60px;"><i class="x-icon-android circle" data-x-icon="&#xf17b;" style="margin: 0 auto; color: hsl(0, 0%, 100%); background-color: hsl(22, 84%, 52%);"></i></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title">EASY BOOKING</h4><p class="x-feature-box-text">Just book your service through mobile app and Track the prograsse.</p></div></div></div><div  class="x-column x-sm x-1-3" style="padding: 0px;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic circle"><div class="x-feature-box-graphic-outer circle" style=""><div class="x-feature-box-graphic-inner circle" style="font-size: 60px;"><i class="x-icon-universal-access circle" data-x-icon="&#xf29a;" style="margin: 0 auto; color: hsl(0, 0%, 100%); background-color: hsl(22, 84%, 52%);"></i></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title">Hassle Free Service Delivery</h4><p class="x-feature-box-text">Super convenient, guaranteed service from booking to delivery</p></div></div></div><div  class="x-column x-sm x-1-3" style="padding: 0px;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><div  class="x-feature-box center-text top-text cf" style=" max-width: none;" data-x-element="feature_box" data-x-params="{&quot;child&quot;:false,&quot;graphicAnimation&quot;:&quot;none&quot;,&quot;graphicAnimationOffset&quot;:&quot;50&quot;,&quot;graphicAnimationDelay&quot;:&quot;0&quot;}"><div class="x-feature-box-graphic circle"><div class="x-feature-box-graphic-outer circle" style=""><div class="x-feature-box-graphic-inner circle" style="font-size: 60px;"><i class="x-icon-user-o circle" data-x-icon="&#xf2c0;" style="margin: 0 auto; color: hsl(0, 0%, 100%); background-color: hsl(22, 84%, 52%);"></i></div></div></div><div class="x-feature-box-content"><h4 class="x-feature-box-title">Matched to Your Needs</h4><p class="x-feature-box-text">We match you with the right professionals with the right budget</p></div></div></div></div></div><div id="x-section-4"  class="x-section"  style="margin: 0px;padding: 10%;background-image: linear-gradient(-131deg, #3DBDB6 0%, #0089CE 100%); background-color: hsl(0, 0%, 4%);"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm cs-ta-center x-1-1" style="padding: 0px;" ><h3  class="h-custom-headline man h3" style="color: hsl(0, 0%, 100%);"><span>Special services</span></h3><hr  class="x-gap" style="margin: 50px 0 0 0;"></div></div><div  class="x-container max width marginless-columns"  style="margin: 0px auto;padding: 0px; background-color:hsl(0, 0%, 100%);"   ><div  class="x-column x-sm x-1-2" style="padding: 0px;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><img  class="x-img man x-img-none" style="width: 100%;" src="https://helpingcart.com/wp-content/uploads/2017/09/car-traffic-on-crossroad-in-barcelona-city-P5X8DKA.jpg" ></div><div  class="x-column x-sm cs-ta-center x-1-2" style="padding: 5%;vertical-align: middle;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms; background-color:hsl(0, 0%, 100%);" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><h4  class="h-custom-headline man h5" ><span>Car and BUS booking</span></h4></div></div><div  class="x-container max width marginless-columns"  style="margin: 0px auto;padding: 0px; background-color:hsla(0, 0%, 100%, 0);"   ><div  class="x-column x-sm cs-ta-center man x-1-2" style="padding: 5%;vertical-align: middle;opacity: 0; transform: translate(-45px, 0); transition-duration: 750ms; background-color:hsl(0, 0%, 100%);" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><h4  class="h-custom-headline man h5" ><span>food delivery for your daily life</span></h4></div><div  class="x-column x-sm x-1-2" style="padding: 0px;opacity: 0; transform: translate(45px, 0); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><img  class="x-img man x-img-none" style="width: 100%;" src="https://helpingcart.com/wp-content/uploads/2017/09/close-up-of-food-on-plate-P2JC8ZZ.jpg" ></div></div></div><div id="x-section-5"  class="x-section"  style="margin: 0px;padding: 10% 0px 0px; background-color: transparent;"   ><div  class="x-container max width marginless-columns"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm cs-ta-center x-1-2" style="padding: 0px;opacity: 0; transform: translate(0, 45px); transition-duration: 1000ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><img  class="x-img man x-img-none" style="max-width: 300px;" src="https://helpingcart.com/wp-content/uploads/2017/09/mobile.png" ></div><div  class="x-column x-sm x-1-2" style="padding: 5%;vertical-align: middle;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><h4  class="h-custom-headline h5" ><span>Download the App</span></h4><div  class="x-text"    ><p>Choose and book from 100+ services and track them on the go with the HelpingCart App</p>
+</div><a  class="x-btn x-btn-x-large"  href="#"     data-options="thumbnail: ''"><i  class="x-icon mvn mln mrs x-icon-android" data-x-icon="&#xf17b;" aria-hidden="true"></i>DOWNLOAD</a></div></div></div><div id="x-section-6"  class="x-section bg-image"  style="margin: 0px;padding: 0% 0px 0px; background-image: url(https://helpingcart.com/wp-content/uploads/2017/09/asdasd.jpg); background-color: hsl(0, 0%, 87%);"   data-x-element="section" data-x-params="{&quot;type&quot;:&quot;image&quot;,&quot;parallax&quot;:false}"><div  class="x-container max width marginless-columns"  style="margin: 0px auto;padding: 8% 0% 0%;"   ><div  class="x-column x-sm x-1-4" style="padding: 5%;vertical-align: middle;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms;" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true">&nbsp;</div><div  class="x-column x-sm x-1-2" style="padding: 5% 3%;opacity: 0; transform: translate(0, 45px); transition-duration: 750ms; background-color:hsl(0, 0%, 97%);" data-x-element="column" data-x-params="{&quot;fade&quot;:true}" data-fade="true"><h2  class="h-custom-headline cs-ta-center man h5" ><span>Book Your Service online!<br />
+Fill the form we will contact you.</span></h2><hr  class="x-gap" style="margin: 50px 0 0 0;"><div role="form" class="wpcf7" id="wpcf7-f60-p2-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f60-p2-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="60" />
+<input type="hidden" name="_wpcf7_version" value="4.9" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f60-p2-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="2" />
+</div>
+<p><label> Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Subject<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </label></p>
+<p><label> Your Message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div><div  class="x-column x-sm x-1-4" style="padding: 0px;" >&nbsp;</div></div></div></div>
+  
+
+</div>
+
+        </div>
+      </article>
+
+    
+  </div>
+
+  
+
+
+
+
+  
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  <div class="x-colophon-content">
+            <p>&copy; Copyright 2017 Helping Cart</p>          </div>
+        
+                  <div class="x-social-global"></div>        
+                  
+<ul id="menu-main-menu-2" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-9"><a href="https://helpingcart.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://helpingcart.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://helpingcart.com/contact-us/">Contact Us</a></li>
+</ul>        
+      </div>
+    </footer>
+
+  
+
+    
+      <div class="x-searchform-overlay">
+        <div class="x-searchform-overlay-inner">
+          <div class="x-container max width">
+            <form method="get" id="searchform" class="form-search center-text" action="https://helpingcart.com/">
+              <label for="s" class="cfc-h-tx tt-upper">Type and Press &ldquo;enter&rdquo; to Search</label>
+              <input type="text" id="s" class="search-query cfc-h-tx center-text tt-upper" name="s">
+            </form>
+          </div>
+        </div>
+      </div>
+
+      
+    </div> <!-- END .x-site -->
+
+    
+  </div> <!-- END .x-root -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/helpingcart.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/themes/x/framework/js/dist/site/x-body.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/themes/x/framework/js/dist/site/x-icon.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=2.0.6'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-content/themes/x/framework/legacy/cranium/js/dist/site/x-body.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://helpingcart.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+
+  
+  
+</body>
+</html>
